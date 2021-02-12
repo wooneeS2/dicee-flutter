@@ -65,8 +65,3 @@ class _DicePageState extends State<DicePage> {
 
 
 
-  @override
-  Widget build(BuildContext context) {
-    return Container();
-  }
-}
